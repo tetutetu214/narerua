@@ -1,1 +1,14 @@
 @import 'bootstrap/scss/bootstrap';
+
+div {
+  background: red;
+  width: 200px;
+  height: 50px;
+
+  h1 {
+    color:white;
+  }
+  p {
+    color: white;
+  }
+}
